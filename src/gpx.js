@@ -1,4 +1,4 @@
-import * as xml2js from 'xml2js';
+import * as xml2js from 'react-native-xml2js';
 import Metadata from './metadata';
 import Waypoint from './waypoint';
 import Route from './route';

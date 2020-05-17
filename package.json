@@ -31,6 +31,6 @@
     "mocha": "~6.2"
   },
   "dependencies": {
-    "xml2js": "^0.4.23"
+    "react-native-xml2js": "^1.0.3"
   }
 }
